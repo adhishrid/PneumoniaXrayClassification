@@ -25,7 +25,7 @@ How to Run
 Sample Results
 The Results below compare the original X-Ray with the Grad-CAM ones
 
-|----------------|---------------------|
+
  ![](original_sample_1.png) 
  ![](heatmap_sample_1.png) 
 
