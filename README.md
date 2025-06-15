@@ -38,8 +38,7 @@ The Results below compare the original X-Ray with the Grad-CAM ones
  ![](heatmap_sample_3.png) 
 
  
- ![](original_sample_4.png)  
- ![](heatmap_sample_4.png) 
+ ![](original_sample_4.png)  ![](heatmap_sample_4.png) 
 
  
  ![](original_sample_5.png) 
